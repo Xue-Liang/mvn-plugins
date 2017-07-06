@@ -1,5 +1,8 @@
-Spring Boot 
- <plugins>
+
+
+
+*
+<plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
@@ -37,3 +40,4 @@ Spring Boot
                 <version>3.6.1</version>
             </plugin>
         </plugins>
+*
